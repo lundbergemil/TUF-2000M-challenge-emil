@@ -1,0 +1,22 @@
+Date/time (GMT0)	Flow rate m3/h	Energy Flow rate GJ/h	Fluid sound speed m/s	Upstream travel time ms		Downstream travel time ms	Positive energy accumulator GJ	Negative energy accumulator GJ	Temperature inlet °C	Temperature outlet °C	Signal quality 	Reynolds number
+2017-08-13 21:42 	0		0			1011.49			0				0				130285568			-1277362177			15.32			17.44			99		106.83	 		
+2017-08-13 22:19
+	0		0			1009.36			0				0				130285568
+			-1277362177
+			16.85			18.89			99		107.05			
+2017-08-13 22:19
+	0		0			1009.36			0				0				130285568
+			-1277362177
+			16.85			18.89			99		107.05			
+2017-08-13 22:19
+	0		0			1009.36			0				0				130285568
+			-1277362177
+			16.85			18.89			99		107.05			
+2017-08-13 22:24
+	0		0			1009.36			0				0				130285568
+			-1277362177
+			17			19.22			99		107.05			
+2017-08-13 22:29
+	0		0			1009.36			0				0				130285568
+			-1277362177
+			17.21			19.42			99		107.55			
