@@ -12,7 +12,7 @@ echo "<div id='btnplacement'>";
 	Button("FEED", "app.php");
 	Button("FEED TEST", "apptestdata.php");
 	Button("RAW DATA", "rawdata.php");
-	Button("Extra");
+	Button("EXTRA");
 echo "</div>"; //text
 
 
