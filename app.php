@@ -16,7 +16,7 @@ echo "<div id='btnplacement'>";
 	Button("FEED");
 	Button("FEED TEST", "apptestdata.php");
 	Button("RAW DATA", "rawdata.php");
-	Button("Extra", "extra.php");
+	Button("EXTRA", "extra.php");
 echo "</div>"; //text
 
 echo "<div id='textDate'>";
